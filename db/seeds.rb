@@ -12,6 +12,7 @@
     name: name,
     level: rand(1..20),
     ndex: ndex,
+    Health: 100
   )
 end
 
